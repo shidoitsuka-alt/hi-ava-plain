@@ -1,19 +1,15 @@
 const variables = {
   greetings: {
-    morning: "Good Morning",
-    day: "Good Day",
-    afternoon: "Good Afternoon",
-    evening: "Good Evening",
-    night: "Good Night",
+    morning: "Selamat Pagi",
+    day: "Selamat Siang",
+    afternoon: "Selamat Sore",
+    evening: "Selamat Malam",
+    night: "Selamat Tidur",
   },
   quotes: [
-    { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "Aku sayang kamu.", author: "Brian" }
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
+  nicknames: ["Baby!!!!"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
